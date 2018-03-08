@@ -1,0 +1,8 @@
+navigation:
+  - title: About
+    location: index.md
+
+
+  - title: Help improve these docs
+    location: contributing-writing.md
+  
